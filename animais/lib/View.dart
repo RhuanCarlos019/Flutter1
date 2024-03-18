@@ -1,0 +1,4 @@
+class TelaListaAnimais {}
+
+class TelaAnimalDetalhe {}
+  
